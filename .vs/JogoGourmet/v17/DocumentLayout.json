@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\guess engine\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:guess engine\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\data\\jogogourmetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:data\\jogogourmetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\guess engine\\guessengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:guess engine\\guessengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\newdishnamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:newdishnamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\successwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:successwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\newdishdescriptionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:newdishdescriptionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\models\\dishdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:models\\dishdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\startwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:startwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|c:\\users\\helbert nunes\\projetos\\jogogourmet\\models\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23139234-197C-467F-BDAD-6739F5C99849}|JogoGourmet.csproj|solutionrelative:models\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:38:32.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewDishDescriptionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\NewDishDescriptionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NewDishDescriptionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\NewDishDescriptionWindow.xaml.cs",
+              "RelativeToolTip": "NewDishDescriptionWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAWwCgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:21:21.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\StartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StartWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\StartWindow.xaml.cs",
+              "RelativeToolTip": "StartWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:39:54.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuccessWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\SuccessWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SuccessWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\SuccessWindow.xaml.cs",
+              "RelativeToolTip": "SuccessWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:48:33.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewDishNameWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\NewDishNameWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NewDishNameWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\NewDishNameWindow.xaml.cs",
+              "RelativeToolTip": "NewDishNameWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:41:26.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:46:54.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuessEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Guess Engine\\GuessEngine.cs",
+              "RelativeDocumentMoniker": "Guess Engine\\GuessEngine.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Guess Engine\\GuessEngine.cs",
+              "RelativeToolTip": "Guess Engine\\GuessEngine.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:29:47.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DishDescription.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Models\\DishDescription.cs",
+              "RelativeDocumentMoniker": "Models\\DishDescription.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Models\\DishDescription.cs",
+              "RelativeToolTip": "Models\\DishDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:20:03.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-11T19:14:17.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Description.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Models\\Description.cs",
+              "RelativeDocumentMoniker": "Models\\Description.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Models\\Description.cs",
+              "RelativeToolTip": "Models\\Description.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:52:49.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Models\\Dish.cs",
+              "RelativeToolTip": "Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:52:12.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:33:27.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JogoGourmetContext.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Data\\JogoGourmetContext.cs",
+              "RelativeDocumentMoniker": "Data\\JogoGourmetContext.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Data\\JogoGourmetContext.cs",
+              "RelativeToolTip": "Data\\JogoGourmetContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:26:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guess.cs",
+              "DocumentMoniker": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Guess Engine\\Guess.cs",
+              "RelativeDocumentMoniker": "Guess Engine\\Guess.cs",
+              "ToolTip": "C:\\Users\\Helbert Nunes\\Projetos\\JogoGourmet\\Guess Engine\\Guess.cs",
+              "RelativeToolTip": "Guess Engine\\Guess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:37:50.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
